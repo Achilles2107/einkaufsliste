@@ -14,9 +14,9 @@ E-Mail		some.student@hs-furtwangen.de
 
 	     | 
 ------------ | -------------
-09/2007 bis 03/2011 | Ausbildung zum Elektroniker für Geräte und Systeme
-09/2013 bis 03/2014 | Fachhochschulreife
-seit 10/2016	    | HFU. AIN Studiengang 
+09/2007 bis 03/2011 | Ausbildung zum Elektroniker für Geräte und Systeme |
+09/2013 bis 03/2014 | Fachhochschulreife				 |
+seit 10/2016	    | HFU. AIN Studiengang 				 |
 
 ----
 
