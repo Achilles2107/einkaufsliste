@@ -10,6 +10,10 @@ E-Mail		some.student@hs-furtwangen.de
 
 ----
 
+<img src="/images/iceberg.jpg" alt="Hier koennte ein Iceberg stehen" title="" />
+
+---
+
 ## Bildungsweg
 
 |         |           |   
