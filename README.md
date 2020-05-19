@@ -1,12 +1,12 @@
 # einkaufsliste - OSSE Praktikum
 
 ## Lebenslauf
-Name		Stefan Siring  
-Geburtsdaten	21.07.1190 in VS-Villinge  
-Adresse		Musterstrasse 11  
-Stadt		123456 Musterstadt  
+Name		Stefan Mustermann  
+Geburtsdaten	21.07.1990 in Porters Lake   
+Adresse		That Street, 11  
+Stadt		123456 Porters Lake  
 Telefon		0175xxxxx  
-E-Mail		stefan.siring@hs-furtwangen.de  
+E-Mail		some.student@hs-furtwangen.de  
 
 ----
 
